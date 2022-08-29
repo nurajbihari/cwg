@@ -1,11 +1,11 @@
-﻿  LaunchRansombear.cpp
-  Source.cpp
+﻿  Source.cpp
   The contents of <filesystem> are available only with C++17 or later.
-     Creating library C:\Users\abihari\Documents\cwg\src\cwg.sourcePE\x64\Release\cwg.sourcePE.lib and object C:\Users\abihari\Documents\cwg\src\cwg.sourcePE\x64\Release\cwg.sourcePE.exp
+     Creating library C:\Users\abihari\Documents\cwg\src\cwg.SourcePE\x64\Release\cwg.sourcePE.lib and object C:\Users\abihari\Documents\cwg\src\cwg.SourcePE\x64\Release\cwg.sourcePE.exp
   Generating code
-  Previous IPDB not found, fall back to full compilation.
-C:\Users\abihari\Documents\cwg\src\cwg.sourcePE\cwg.sourcePE\Source.cpp(88): warning C4715: 'InjectProcess': not all control paths return a value
-C:\Users\abihari\Documents\cwg\src\cwg.sourcePE\cwg.sourcePE\Source.cpp(121): warning C4715: 'ExtractResource': not all control paths return a value
-  All 348 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+C:\Users\abihari\Documents\cwg\src\cwg.SourcePE\cwg.sourcePE\Source.cpp(121): warning C4715: 'ExtractResource': not all control paths return a value
+C:\Users\abihari\Documents\cwg\src\cwg.SourcePE\cwg.sourcePE\Source.cpp(88): warning C4715: 'InjectProcess': not all control paths return a value
+  5 of 348 functions ( 1.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  cwg.sourcePE.vcxproj -> C:\Users\abihari\Documents\cwg\src\cwg.sourcePE\x64\Release\cwg.sourcePE.exe
+  cwg.sourcePE.vcxproj -> C:\Users\abihari\Documents\cwg\src\cwg.SourcePE\x64\Release\cwg.sourcePE.exe

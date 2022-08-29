@@ -1,0 +1,2 @@
+Get sourcePE file then run this command against that file 
+python sigthief.py -i Autoruns.exe -t cwg.sourcePE.exe -o sourcePESIGNED.exe

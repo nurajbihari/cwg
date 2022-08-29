@@ -1,0 +1,3 @@
+LIBRARY "cwg.sourceDLL"
+EXPORTS
+	Go
